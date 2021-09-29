@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pooja Sanap.
 - 🌱 I’m currently learning Computer Engineering from PES Modern College of Engineering, Pune
-- 💞️ I’m looking to collaborate on web developmentprojects and python projects for now. Looking forward to learn Cpp.
+- 💞️ I’m looking to collaborate on web development projects and python projects for now. Looking forward to learn Cpp.
 - 📫 To reach me, feel free to contact me on Linkedin www.linkedin.com/in/poojasanap53
 
 <!---

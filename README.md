@@ -1,9 +1,7 @@
 <!---
 pooja-sanap-53/pooja-sanap-53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&height=60&lines=Hi+there%2C+I'm+Pooja...;I+love+programming...;an+Open+Source+Enthusiast...)](https://git.io/typing-svg)
+--->[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&height=60&lines=Hi+there%2C+I'm+Pooja...;I+love+programming...;An+Open+Source+Enthusiast...)](https://git.io/typing-svg)
 ## Who am I?
 
  ```python

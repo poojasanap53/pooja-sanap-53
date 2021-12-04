@@ -3,7 +3,7 @@ pooja-sanap-53/pooja-sanap-53 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Hi+there%2C+I'm+Pooja+...;I+love+programming...)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&height=60&lines=Hi+there%2C+I'm+Pooja...;I+love+programming...;an+Open+Source+Enthusiast...)](https://git.io/typing-svg)
 ## Who am I?
 
  ```python
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 		return TravelWorldwide
 		
 	def CurrentStatus():
-		return "Looking forard to collaborate on Open Source Projects"
+		return "Looking forward to collaborate on Open Source Projects"
  ```
 
  

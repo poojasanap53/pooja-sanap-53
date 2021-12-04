@@ -1,14 +1,9 @@
-- 👋 Hi, I’m Pooja Sanap.
-- 🌱 I’m currently learning Computer Engineering from PES Modern College of Engineering, Pune
-- 💞️ I’m looking to collaborate on web development projects and python projects for now. Looking forward to learn Cpp.
-- 📫 To reach me, feel free to contact me on Linkedin www.linkedin.com/in/poojasanap53
-
 <!---
 pooja-sanap-53/pooja-sanap-53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there%2C+I'm+Pooja+...;I+love+programming...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there%2C+I'm+Pooja+...;I+love+programming...)](https://git.io/typing-svg align="center")
 ## Who am I?
 
  ```python

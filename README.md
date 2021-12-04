@@ -81,11 +81,11 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/poojasanap53"><img alt="Linkedin" title="Pooja Sanap 53 Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/pooja-sanap-53"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/poojasanap53"><img alt="Linkedin" title="Pooja Sanap Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/pooja-sanap-53"><img alt="Github" title="Pooja Sanap Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  
  </p>
  <p align="center">
   <a href="mailto:sanappooja777@gmail.com"><img alt="Gmail" title="Pooja Sanap Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/jaydeep91"><img alt="Telegram" title="Jaydeep Yadav Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+  <a href="https://t.me/Pooja_Sanap"><img alt="Telegram" title="Pooja Sanap Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 

@@ -8,7 +8,7 @@ pooja-sanap-53/pooja-sanap-53 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-<img src="https://camo.githubusercontent.com/eff00154c5dbfc0ca4f2a5b9123d5276f0eab79c152a5caf77068e87be54061f/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d306438656365462673697a653d33302663656e7465723d74727565267643656e7465723d747275652677696474683d353530266865696768743d3730266c696e65733d4865792b54686572652c2b49276d2b4a6179646565703b492b4c6f76652b432b50726f6772616d6d696e673b416e2b4f70656e2b536f757263652b456e74687573696173743b46756c6c2b537461636b2b5765622b446576656c6f7065723b4c6f7665732b546f2b4275696c642b50726f6a656374733b412b50726f626c656d2b536f6c7665723b" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&amp;size=30&amp;center=true&amp;vCenter=true&amp;width=550&amp;height=70&amp;lines=Hey+There,+I'm+Pooja;I+Love+Programming;An+Open+Source+Enthusiast;Full+Stack+Web+Developer;Loves+To+Build+Projects;A+Problem+Solver;" style="max-width: 100%;">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there%2C+I'm+Pooja+...;I+love+programming...)](https://git.io/typing-svg)
 ## Who am I?
 
  ```python

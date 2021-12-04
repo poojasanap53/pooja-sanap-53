@@ -28,8 +28,10 @@ You can click the Preview link to take a look at your changes.
 		return India
 	
 	def Ambitions():
-		Become a good programmer
-		Travel worldwide
+		return TravelWorldwide
+		
+	def CurrentStatus():
+		return "Looking forard to collaborate on Open Source Projects"
  ```
 
  
@@ -42,6 +44,7 @@ You can click the Preview link to take a look at your changes.
 ## Programming Languages
 
 <p>
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>

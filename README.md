@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
  
 ## Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pooja-sanap-53)](https://github.com/anuraghazra/github-readme-stats)
+[![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=pooja-sanap-53&show_icons=true&theme=radical)])
 
 
 ## Programming Languages

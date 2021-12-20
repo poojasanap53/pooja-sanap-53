@@ -33,7 +33,8 @@ You can click the Preview link to take a look at your changes.
 ## Github Stats
 
 ![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=pooja-sanap-53&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooja-sanap-53&layout=compact)
+![Pooja's Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=pooja-sanap-53&&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooja-sanap-53&layout=compact&theme=github_dark)
 
 
 ## Programming Languages

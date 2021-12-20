@@ -32,9 +32,9 @@ You can click the Preview link to take a look at your changes.
  
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=pooja-sanap-53&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=pooja-sanap-53&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pooja-sanap-53&&show_icons=true&count_private=true&theme=github_dark">|<img src="center" src="https://github-readme-stats.vercel.app/api?username=gaurav-sarage&show_icons=true&locale=en"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja-sanap-53&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pooja-sanap-53&"/>|
 
 ## Programming Languages
 

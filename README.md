@@ -88,5 +88,5 @@ You can click the Preview link to take a look at your changes.
  </p>
  <p align="center">
   <a href="mailto:sanappooja777@gmail.com"><img alt="Gmail" title="Pooja Sanap Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/Pooja_Sanap"><img alt="Telegram" title="Pooja Sanap Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+  <a href="https://twitter.com/poojasanap53"><img alt="Twitter" title="Pooja Sanap Twitter" src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white"></a> 
 

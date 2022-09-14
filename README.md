@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
   class WhoAmI:
     user = 'Pooja Sanap'
 	current_edu = "Computer Science Engineering"
-    currently_learning = "React"
     
 	hobbies = [
 				'Music',
